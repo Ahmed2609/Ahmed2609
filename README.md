@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hello 👋  I`m # Fellow < Developers/ >! </h1> 
     <img align="center" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200">
-    <h3 align="center">Apasionado por el desarrollo de software y especializado en crear experiencias móviles impactantes. Siempre en busca de nuevos desafíos para convertir ideas innovadoras en aplicaciones que mejoren el día a día</h3>
+    <h3 align="center">Passionate about software development and specialized in creating impactful mobile experiences. Always looking for new challenges to turn innovative ideas into applications that improve everyday life.</h3>
 </div>
 
 
