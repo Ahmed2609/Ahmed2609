@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hello 👋  I`m # Fellow < Developers/ >! </h1> 
     <img align="center" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200">
-    <h3 align="center">Apasionado por el desarrollo de software y especializado en crear experiencias móviles impactantes. Siempre en busca de nuevos desafíos para convertir ideas innovadoras en aplicaciones que mejoren el día a día</h3>
+    <h3 align="center">Passionate about software development and specialized in creating impactful mobile experiences. Always looking for new challenges to turn innovative ideas into applications that improve everyday life.</h3>
 </div>
 
 
@@ -43,11 +43,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="
-    https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
   </a>
-
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -60,7 +57,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/>
   </a>
@@ -70,7 +66,6 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   </a>
-
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
   </a>
