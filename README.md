@@ -42,8 +42,8 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
+  <a href="https://https://www.java.com//" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/>
   </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
